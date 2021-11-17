@@ -8,4 +8,6 @@ aide  androidx项目  直装版  不用导入sdk
 Utermux   魔改版
 
 
+$ termux-setup-storage
+
 
