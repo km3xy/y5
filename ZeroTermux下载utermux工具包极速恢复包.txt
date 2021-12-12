@@ -1,4 +1,7 @@
 
+github    ZeroTermux  作者
+
+
 https://github.com/hanxinhao000/ZeroTermux
 
 用恢复包恢复后
